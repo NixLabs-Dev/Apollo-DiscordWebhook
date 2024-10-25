@@ -1,0 +1,12 @@
+{
+    "id": "discord",
+    "type": "mod",
+    "name": "NixLabs Discord Notifications",
+    "description": "notifies discord server",
+    "icon_url": "icon.svg",
+    "homepage_url": "https://nixlabs.dev",
+    "author": "NixLabs",
+    "author_url": "https://nixlabs.dev/",
+    "license": "Apache 2.0 - https://www.apache.org/licenses/LICENSE-2.0",
+    "version": "0.0.1"
+  }
